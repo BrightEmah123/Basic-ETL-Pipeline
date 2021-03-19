@@ -21,7 +21,7 @@ dill==0.2.9
 Django==2.2.4
 django-allauth==0.40.0
 django-rest-auth==0.9.5
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 docutils==0.15.2
 entrypoints==0.3
