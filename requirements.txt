@@ -14,7 +14,7 @@ colorama==0.4.1
 configparser==3.5.3
 croniter==0.3.30
 cycler==0.10.0
-dask==2.5.0
+dask==2021.10.0
 decorator==4.4.0
 defusedxml==0.6.0
 dill==0.2.9
