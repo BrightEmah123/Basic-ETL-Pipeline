@@ -68,7 +68,7 @@ lazy-object-proxy==1.4.2
 locket==0.2.0
 lockfile==0.12.2
 luigi==2.8.9
-lxml==4.4.1
+lxml==4.6.5
 Mako==1.1.0
 Markdown==3.0
 MarkupSafe==1.1.1
